@@ -52,4 +52,5 @@ CSV File: <host>_<timestamp>_ping_results.csv - Contains the logged ping results
 ### Plots:
 
 <host>_<timestamp>_ping_results_plot.jpg - A plot of RTTs over time.
+
 <host>_<timestamp>_ping_results_pie.jpg - A pie chart showing uptime (online vs. offline).
