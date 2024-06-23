@@ -45,11 +45,11 @@ save_results_to_csv(results, filename): Saves the ping results to a CSV file.
 plot_ping_results(csv_file, plot_file, pie_file, title): Generates a plot of RTTs over time and a pie chart showing uptime.
 Example Output
 
-###The script generates following files:
+### The script generates following files:
 
 CSV File: <host>_<timestamp>_ping_results.csv - Contains the logged ping results.
 
-###Plots:
+### Plots:
 
 <host>_<timestamp>_ping_results_plot.jpg - A plot of RTTs over time.
 <host>_<timestamp>_ping_results_pie.jpg - A pie chart showing uptime (online vs. offline).
